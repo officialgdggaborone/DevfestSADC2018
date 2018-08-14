@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/dan/Desktop/GDGSADevfest2017/library/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/dan/Desktop/GDGSADevfest2017/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,302,329",
+                        "endLines": "2,4,13",
+                        "endColumns": "50,26,12",
+                        "endOffsets": "101,324,760"
+                    }
+                }
+            ]
+        }
+    ]
+}
